@@ -73,7 +73,7 @@ let C3 = 1.1180339887498948;
 let C4 = 1.8090169943749474;
 
 function setup() {
-  w = max(400, min(windowWidth, windowHeight) * 0.9);
+  w = max(700, min(windowWidth, windowHeight) * 0.9);
   describe(
     "a dodecicosacron drawn and rotating on a blueprint design with semi-transparent white faces."
   );
